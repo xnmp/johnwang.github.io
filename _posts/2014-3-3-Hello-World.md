@@ -19,4 +19,12 @@ $$\sum a_b$$
 
 \[int_a^b\]
 
-\ppp\
+\(hjhppp\)
+
+\\(hjhppp\\)
+
+
+
+ {% raw %}
+  $$a^2 + b^2 = c^2$$ --> note that all equations between these tags will not need escaping! 
+ {% endraw %}
