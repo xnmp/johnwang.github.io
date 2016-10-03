@@ -17,7 +17,7 @@ First post yayayaya
 
 $$\sum a_b$$
 
-\[int_a^b\]
+inline integral: $int_a^b f(x) dx$ that was an inline integral
 
 \(hjhppp\)
 
