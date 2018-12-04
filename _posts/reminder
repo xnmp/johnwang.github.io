@@ -1,0 +1,3 @@
+do a search and replace of "}_" with "}\_"
+
+also replace all "& = &" with "& ="
